@@ -1,0 +1,6 @@
+﻿Tạo Mysql database tên: bandienmay
+Sau đó vào theo đường dẫn.
+
+Đường dẫn Admin: /admin
+Tài khoản: huy
+Mật khẩu: 123456
